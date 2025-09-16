@@ -36,3 +36,25 @@
 #     print(num)
 #     num += 2 
 
+# Exercício 7
+# thanos=1.50
+# miranha=1.10
+# anos=0
+# while miranha<thanos:
+#     thanos+=0.02
+#     miranha+=0.03
+#     anos+=1
+# print("Demorará",anos,"anos!")    
+
+# Exercício 9
+# numero=int(input("Digite um número: "))
+# cont=0
+# divisor=1
+# while divisor<=numero:
+#     if numero%divisor==0:
+#      cont+=1
+#     divisor+=1
+# if cont==2:
+#     print("O número é primo!") 
+# else:
+#      print("O número não é primo!")  
